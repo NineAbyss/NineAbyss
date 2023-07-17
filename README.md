@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NineAbyss
-- 👀 I’m interested in social network, operations research, ai and their applications on finance.
+- 👀 I’m interested in graph, LLM, and data mining.
 - 🌱 I’m a master student in TBSI.
 - 📫 My e-mail is wps22@mails.tsinghua.edu.cn
