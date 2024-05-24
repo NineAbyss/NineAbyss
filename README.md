@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NineAbyss
 - 👀 I’m interested in graph, LLM, and data mining.
-- 🌱 I’m a master student in TBSI.
+- 🌱 I’m a master student at Tsinghua University.
 - 📫 My e-mail is wps22@mails.tsinghua.edu.cn
